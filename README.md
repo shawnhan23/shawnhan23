@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shawnhan23
 - 👀 I’m interested in c++
-- 🌱 I’m currently learning how to code complex data in Racket
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on design challenges
 - 📫 hanleyshawn93@gmail.com
 <!---
